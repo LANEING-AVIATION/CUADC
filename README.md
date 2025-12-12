@@ -1,4 +1,4 @@
-# Breaking History! Chongqing University Multi-rotor Project Team Wins National First Prize in the China University Aircraft Design Innovation Competition
+# Breaking History! Chongqing University Multicopter Team Wins National First Prize
 
 From October 5th to 13th, 2025, the China University Aircraft Design Innovation Competition, hosted by the Chinese Society of Aeronautics and Astronautics, was held in Deqing, Zhejiang. The competition attracted faculty and students from top universities including Tsinghua University, Beihang University, Harbin Institute of Technology, Northwestern Polytechnical University, and Chongqing University, making the competition exceptionally fierce.
 
@@ -48,4 +48,4 @@ Furthermore, the team implemented a **flexible working system** and **online col
 
 As Zhuangzi said: "He who overcomes others has strength; he who overcomes himself is mighty". The goal of the Chongqing University multi-rotor project team is not just a first prize or a championship, but to **surpass themselves**, promote the construction of a world-class laboratory, and pursue the dream at the forefront of the **aerial robotics and UAV industry**. This historical breakthrough is yet another fruitful achievement of Chongqing University's innovation and practical education system.
 
-Under the leadership of the University Party Committee, the **School of Aeronautics and Astronautics** at Chongqing University focuses on the key directions of national development, delves into the field of **intelligent aircraft research**, and vigorously promotes **interdisciplinary integration and innovation**. Students have repeatedly achieved excellent results in high-level domestic competitions, showcasing the spirit of Chongqing University students.
+The **School of Aeronautics and Astronautics** at Chongqing University delves into the field of **intelligent aircraft research**, and vigorously promotes **interdisciplinary integration and innovation**. Students have repeatedly achieved excellent results in high-level competitions, showcasing the spirit of Chongqing University students.
