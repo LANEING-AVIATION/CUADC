@@ -1,6 +1,6 @@
 # Breaking History! Chongqing University Multicopter Team Wins National First Prize
 
-From October 5th to 13th, 2025, the China University Aircraft Design Innovation Competition, hosted by the Chinese Society of Aeronautics and Astronautics, was held in Deqing, Zhejiang. The competition attracted faculty and students from top universities including Tsinghua University, Beihang University, Harbin Institute of Technology, Northwestern Polytechnical University, and Chongqing University, making the competition exceptionally fierce.
+From October 5th to 13th, 2025, the China University Aircraft Design Innovation Competition, hosted by the Chinese Society of Aeronautics and Astronautics, was held in Deqing, Zhejiang. The competition attracted faculty and students from top universities including Tsinghua University, Beihang University, and Chongqing University, making the competition exceptionally fierce.
 
 ![Introduction](https://github.com/LANEING-AVIATION/CUADC/blob/main/IMG1.png)
 
